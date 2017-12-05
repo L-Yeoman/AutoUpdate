@@ -16,7 +16,7 @@
     >
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.yll520wcf.test.fileprovider"
+            android:authorities="com.android.library.fileprovider"
             android:grantUriPermissions="true"
             android:exported="false">
             <!--元数据-->
